@@ -1,44 +1,43 @@
-# praktikum13
+# Praktikum 13 Web Service
 
-This template should help get you started developing with Vue 3 in Vite.
+## Nama
+Dela Fransiska
 
-## Recommended IDE Setup
+## Mata Kuliah
+Desain Web II
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Deskripsi
+Project ini merupakan tugas Praktikum 13 Web Service yang dibuat menggunakan Vue.js, Vue Router, dan Axios untuk mengakses REST API dari ReqRes.
 
-## Recommended Browser Setup
+## Fitur
+- Menampilkan daftar pengguna (GET)
+- Menampilkan detail pengguna
+- Menambahkan pengguna (POST)
+- Menggunakan Vue Router
+- Menggunakan Axios
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Teknologi
+- Vue 3
+- Vite
+- Axios
+- ReqRes API
 
-## Customize configuration
+## Cara Menjalankan Project
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. Install dependencies
 
-## Project Setup
-
-```sh
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+2. Jalankan project
 
-```sh
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+3. Buka browser
 
-```sh
-npm run build
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
+http://localhost:5173
 ```
